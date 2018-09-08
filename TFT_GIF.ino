@@ -24,7 +24,7 @@ struct animInfo {
 };
 
 
-/* warning memory full if too menay ebabked */
+/* warning memory full if too menay enabled */
 #include "kuypqcp8.h";
 #include "th_dickinson.h"
 #include "th_godsquad.h"
